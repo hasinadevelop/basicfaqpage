@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>basicfaqpage</name>
+	<displayName><![CDATA[Frequently Asked Questions Basic]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[Add FAQ page to your shop]]></description>
+	<author><![CDATA[Hasina Adnriantseheno]]></author>
+	<tab><![CDATA[front_office_features]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>
